@@ -1,0 +1,8 @@
+1,Anton,Petrov,+375294567890,true,false
+2,Nina,Tomson,+375334542121,true,false
+3,Nick,Richardson,+375298900078,true,false
+4,Oly,Sams,+375334445655,true,false
+5,Ivan,Savin,+375293453344,false,false
+6,Tom,Jonson,+375298900088,false,false
+7,Frad,Purk,+375667879922,true,false
+8,Maria,Olynkova,+375664553312,true,false

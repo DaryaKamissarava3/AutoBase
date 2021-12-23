@@ -1,0 +1,8 @@
+1,x312,Audi,true,false
+2,l450,Volvo,true,false
+3,x12,Mazda,false,false
+4,c4,Lada,false,false
+5,g3,Infinity,true,false
+6,q78,Opel,true,false
+7,vn4,Ford,true,false
+8,cv456,Kia,true,false
